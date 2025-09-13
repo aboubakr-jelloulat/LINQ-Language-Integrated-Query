@@ -1,0 +1,14 @@
+C:\Users\HP\Desktop\Linq\Linq\01-Pure Vs Impure Functions\bin\Debug\net10.0\01-Pure Vs Impure Functions.exe
+C:\Users\HP\Desktop\Linq\Linq\01-Pure Vs Impure Functions\bin\Debug\net10.0\01-Pure Vs Impure Functions.deps.json
+C:\Users\HP\Desktop\Linq\Linq\01-Pure Vs Impure Functions\bin\Debug\net10.0\01-Pure Vs Impure Functions.runtimeconfig.json
+C:\Users\HP\Desktop\Linq\Linq\01-Pure Vs Impure Functions\bin\Debug\net10.0\01-Pure Vs Impure Functions.dll
+C:\Users\HP\Desktop\Linq\Linq\01-Pure Vs Impure Functions\bin\Debug\net10.0\01-Pure Vs Impure Functions.pdb
+C:\Users\HP\Desktop\Linq\Linq\01-Pure Vs Impure Functions\obj\Debug\net10.0\01-Pure Vs Impure Functions.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\Desktop\Linq\Linq\01-Pure Vs Impure Functions\obj\Debug\net10.0\01-Pure Vs Impure Functions.AssemblyInfoInputs.cache
+C:\Users\HP\Desktop\Linq\Linq\01-Pure Vs Impure Functions\obj\Debug\net10.0\01-Pure Vs Impure Functions.AssemblyInfo.cs
+C:\Users\HP\Desktop\Linq\Linq\01-Pure Vs Impure Functions\obj\Debug\net10.0\01-Pure Vs Impure Functions.csproj.CoreCompileInputs.cache
+C:\Users\HP\Desktop\Linq\Linq\01-Pure Vs Impure Functions\obj\Debug\net10.0\01-Pure Vs Impure Functions.dll
+C:\Users\HP\Desktop\Linq\Linq\01-Pure Vs Impure Functions\obj\Debug\net10.0\refint\01-Pure Vs Impure Functions.dll
+C:\Users\HP\Desktop\Linq\Linq\01-Pure Vs Impure Functions\obj\Debug\net10.0\01-Pure Vs Impure Functions.pdb
+C:\Users\HP\Desktop\Linq\Linq\01-Pure Vs Impure Functions\obj\Debug\net10.0\01-Pure Vs Impure Functions.genruntimeconfig.cache
+C:\Users\HP\Desktop\Linq\Linq\01-Pure Vs Impure Functions\obj\Debug\net10.0\ref\01-Pure Vs Impure Functions.dll

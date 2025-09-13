@@ -1,0 +1,10 @@
+{
+  "profiles": {
+    "01-Pure Vs Impure Functions": {
+      "commandName": "Project"
+    },
+    "Container (Dockerfile)": {
+      "commandName": "Docker"
+    }
+  }
+}

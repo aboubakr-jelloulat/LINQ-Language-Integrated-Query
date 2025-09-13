@@ -1,3 +1,4 @@
 <Solution>
   <Project Path="01-Pure Vs Impure Functions/01-Pure Vs Impure Functions.csproj" />
+  <Project Path="02-Functional Programming/02-Functional Programming.csproj" />
 </Solution>

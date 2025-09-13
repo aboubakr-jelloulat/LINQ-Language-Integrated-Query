@@ -1,0 +1,15 @@
+C:\Users\HP\Desktop\Linq\Linq\02-Functional Programming\bin\Debug\net10.0\02-Functional Programming.exe
+C:\Users\HP\Desktop\Linq\Linq\02-Functional Programming\bin\Debug\net10.0\02-Functional Programming.deps.json
+C:\Users\HP\Desktop\Linq\Linq\02-Functional Programming\bin\Debug\net10.0\02-Functional Programming.runtimeconfig.json
+C:\Users\HP\Desktop\Linq\Linq\02-Functional Programming\bin\Debug\net10.0\02-Functional Programming.dll
+C:\Users\HP\Desktop\Linq\Linq\02-Functional Programming\bin\Debug\net10.0\02-Functional Programming.pdb
+C:\Users\HP\Desktop\Linq\Linq\02-Functional Programming\obj\Debug\net10.0\02-Functional Programming.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\Desktop\Linq\Linq\02-Functional Programming\obj\Debug\net10.0\02-Functional Programming.AssemblyInfoInputs.cache
+C:\Users\HP\Desktop\Linq\Linq\02-Functional Programming\obj\Debug\net10.0\02-Functional Programming.AssemblyInfo.cs
+C:\Users\HP\Desktop\Linq\Linq\02-Functional Programming\obj\Debug\net10.0\02-Functional Programming.csproj.CoreCompileInputs.cache
+C:\Users\HP\Desktop\Linq\Linq\02-Functional Programming\obj\Debug\net10.0\02-Functional Programming.sourcelink.json
+C:\Users\HP\Desktop\Linq\Linq\02-Functional Programming\obj\Debug\net10.0\02-Functional Programming.dll
+C:\Users\HP\Desktop\Linq\Linq\02-Functional Programming\obj\Debug\net10.0\refint\02-Functional Programming.dll
+C:\Users\HP\Desktop\Linq\Linq\02-Functional Programming\obj\Debug\net10.0\02-Functional Programming.pdb
+C:\Users\HP\Desktop\Linq\Linq\02-Functional Programming\obj\Debug\net10.0\02-Functional Programming.genruntimeconfig.cache
+C:\Users\HP\Desktop\Linq\Linq\02-Functional Programming\obj\Debug\net10.0\ref\02-Functional Programming.dll

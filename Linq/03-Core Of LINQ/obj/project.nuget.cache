@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "uxsPseooOak=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\HP\\Desktop\\Linq\\Linq\\03-Core Of LINQ\\03-Core Of LINQ.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\HP\\.nuget\\packages\\microsoft.visualstudio.azure.containers.tools.targets\\1.23.0-preview.4\\microsoft.visualstudio.azure.containers.tools.targets.1.23.0-preview.4.nupkg.sha512"
+  ],
+  "logs": []
+}

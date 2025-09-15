@@ -1,4 +1,5 @@
 <Solution>
   <Project Path="01-Pure Vs Impure Functions/01-Pure Vs Impure Functions.csproj" />
   <Project Path="02-Functional Programming/02-Functional Programming.csproj" />
+  <Project Path="03-Core Of LINQ/03-Core Of LINQ.csproj" Id="2bcb5e70-3fab-4f9e-b45e-4e5371fcff5a" />
 </Solution>

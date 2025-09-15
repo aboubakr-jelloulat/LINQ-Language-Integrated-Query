@@ -1,0 +1,15 @@
+C:\Users\HP\Desktop\Linq\Linq\03-Core Of LINQ\bin\Debug\net10.0\03-Core Of LINQ.exe
+C:\Users\HP\Desktop\Linq\Linq\03-Core Of LINQ\bin\Debug\net10.0\03-Core Of LINQ.deps.json
+C:\Users\HP\Desktop\Linq\Linq\03-Core Of LINQ\bin\Debug\net10.0\03-Core Of LINQ.runtimeconfig.json
+C:\Users\HP\Desktop\Linq\Linq\03-Core Of LINQ\bin\Debug\net10.0\03-Core Of LINQ.dll
+C:\Users\HP\Desktop\Linq\Linq\03-Core Of LINQ\bin\Debug\net10.0\03-Core Of LINQ.pdb
+C:\Users\HP\Desktop\Linq\Linq\03-Core Of LINQ\obj\Debug\net10.0\03-Core Of LINQ.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\Desktop\Linq\Linq\03-Core Of LINQ\obj\Debug\net10.0\03-Core Of LINQ.AssemblyInfoInputs.cache
+C:\Users\HP\Desktop\Linq\Linq\03-Core Of LINQ\obj\Debug\net10.0\03-Core Of LINQ.AssemblyInfo.cs
+C:\Users\HP\Desktop\Linq\Linq\03-Core Of LINQ\obj\Debug\net10.0\03-Core Of LINQ.csproj.CoreCompileInputs.cache
+C:\Users\HP\Desktop\Linq\Linq\03-Core Of LINQ\obj\Debug\net10.0\03-Core Of LINQ.sourcelink.json
+C:\Users\HP\Desktop\Linq\Linq\03-Core Of LINQ\obj\Debug\net10.0\03-Core Of LINQ.dll
+C:\Users\HP\Desktop\Linq\Linq\03-Core Of LINQ\obj\Debug\net10.0\refint\03-Core Of LINQ.dll
+C:\Users\HP\Desktop\Linq\Linq\03-Core Of LINQ\obj\Debug\net10.0\03-Core Of LINQ.pdb
+C:\Users\HP\Desktop\Linq\Linq\03-Core Of LINQ\obj\Debug\net10.0\03-Core Of LINQ.genruntimeconfig.cache
+C:\Users\HP\Desktop\Linq\Linq\03-Core Of LINQ\obj\Debug\net10.0\ref\03-Core Of LINQ.dll

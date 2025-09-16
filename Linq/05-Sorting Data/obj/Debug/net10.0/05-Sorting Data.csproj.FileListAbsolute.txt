@@ -1,0 +1,15 @@
+C:\Users\HP\Desktop\Linq\Linq\05-Sorting Data\bin\Debug\net10.0\05-Sorting Data.exe
+C:\Users\HP\Desktop\Linq\Linq\05-Sorting Data\bin\Debug\net10.0\05-Sorting Data.deps.json
+C:\Users\HP\Desktop\Linq\Linq\05-Sorting Data\bin\Debug\net10.0\05-Sorting Data.runtimeconfig.json
+C:\Users\HP\Desktop\Linq\Linq\05-Sorting Data\bin\Debug\net10.0\05-Sorting Data.dll
+C:\Users\HP\Desktop\Linq\Linq\05-Sorting Data\bin\Debug\net10.0\05-Sorting Data.pdb
+C:\Users\HP\Desktop\Linq\Linq\05-Sorting Data\obj\Debug\net10.0\05-Sorting Data.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\Desktop\Linq\Linq\05-Sorting Data\obj\Debug\net10.0\05-Sorting Data.AssemblyInfoInputs.cache
+C:\Users\HP\Desktop\Linq\Linq\05-Sorting Data\obj\Debug\net10.0\05-Sorting Data.AssemblyInfo.cs
+C:\Users\HP\Desktop\Linq\Linq\05-Sorting Data\obj\Debug\net10.0\05-Sorting Data.csproj.CoreCompileInputs.cache
+C:\Users\HP\Desktop\Linq\Linq\05-Sorting Data\obj\Debug\net10.0\05-Sorting Data.sourcelink.json
+C:\Users\HP\Desktop\Linq\Linq\05-Sorting Data\obj\Debug\net10.0\05-Sorting Data.dll
+C:\Users\HP\Desktop\Linq\Linq\05-Sorting Data\obj\Debug\net10.0\refint\05-Sorting Data.dll
+C:\Users\HP\Desktop\Linq\Linq\05-Sorting Data\obj\Debug\net10.0\05-Sorting Data.pdb
+C:\Users\HP\Desktop\Linq\Linq\05-Sorting Data\obj\Debug\net10.0\05-Sorting Data.genruntimeconfig.cache
+C:\Users\HP\Desktop\Linq\Linq\05-Sorting Data\obj\Debug\net10.0\ref\05-Sorting Data.dll

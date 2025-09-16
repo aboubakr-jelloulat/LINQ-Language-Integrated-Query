@@ -3,4 +3,5 @@
   <Project Path="02-Functional Programming/02-Functional Programming.csproj" />
   <Project Path="03-Core Of LINQ/03-Core Of LINQ.csproj" Id="2bcb5e70-3fab-4f9e-b45e-4e5371fcff5a" />
   <Project Path="04- Projection Operation/04- Projection Operation.csproj" Id="2f1e047f-b59f-484f-99bf-011e662f88b8" />
+  <Project Path="05-Sorting Data/05-Sorting Data.csproj" Id="386755e9-6d17-42f4-8ef4-a72e7372311f" />
 </Solution>

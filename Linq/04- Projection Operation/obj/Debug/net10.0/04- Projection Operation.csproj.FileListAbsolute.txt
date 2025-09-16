@@ -1,0 +1,15 @@
+C:\Users\HP\Desktop\Linq\Linq\04- Projection Operation\bin\Debug\net10.0\04- Projection Operation.exe
+C:\Users\HP\Desktop\Linq\Linq\04- Projection Operation\bin\Debug\net10.0\04- Projection Operation.deps.json
+C:\Users\HP\Desktop\Linq\Linq\04- Projection Operation\bin\Debug\net10.0\04- Projection Operation.runtimeconfig.json
+C:\Users\HP\Desktop\Linq\Linq\04- Projection Operation\bin\Debug\net10.0\04- Projection Operation.dll
+C:\Users\HP\Desktop\Linq\Linq\04- Projection Operation\bin\Debug\net10.0\04- Projection Operation.pdb
+C:\Users\HP\Desktop\Linq\Linq\04- Projection Operation\obj\Debug\net10.0\04- Projection Operation.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\Desktop\Linq\Linq\04- Projection Operation\obj\Debug\net10.0\04- Projection Operation.AssemblyInfoInputs.cache
+C:\Users\HP\Desktop\Linq\Linq\04- Projection Operation\obj\Debug\net10.0\04- Projection Operation.AssemblyInfo.cs
+C:\Users\HP\Desktop\Linq\Linq\04- Projection Operation\obj\Debug\net10.0\04- Projection Operation.csproj.CoreCompileInputs.cache
+C:\Users\HP\Desktop\Linq\Linq\04- Projection Operation\obj\Debug\net10.0\04- Projection Operation.sourcelink.json
+C:\Users\HP\Desktop\Linq\Linq\04- Projection Operation\obj\Debug\net10.0\04- Projection Operation.dll
+C:\Users\HP\Desktop\Linq\Linq\04- Projection Operation\obj\Debug\net10.0\refint\04- Projection Operation.dll
+C:\Users\HP\Desktop\Linq\Linq\04- Projection Operation\obj\Debug\net10.0\04- Projection Operation.pdb
+C:\Users\HP\Desktop\Linq\Linq\04- Projection Operation\obj\Debug\net10.0\04- Projection Operation.genruntimeconfig.cache
+C:\Users\HP\Desktop\Linq\Linq\04- Projection Operation\obj\Debug\net10.0\ref\04- Projection Operation.dll

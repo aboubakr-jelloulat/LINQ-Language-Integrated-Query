@@ -1,0 +1,15 @@
+C:\Users\HP\Desktop\Linq\Linq\07-Quantifiers\bin\Debug\net10.0\07-Quantifiers.exe
+C:\Users\HP\Desktop\Linq\Linq\07-Quantifiers\bin\Debug\net10.0\07-Quantifiers.deps.json
+C:\Users\HP\Desktop\Linq\Linq\07-Quantifiers\bin\Debug\net10.0\07-Quantifiers.runtimeconfig.json
+C:\Users\HP\Desktop\Linq\Linq\07-Quantifiers\bin\Debug\net10.0\07-Quantifiers.dll
+C:\Users\HP\Desktop\Linq\Linq\07-Quantifiers\bin\Debug\net10.0\07-Quantifiers.pdb
+C:\Users\HP\Desktop\Linq\Linq\07-Quantifiers\obj\Debug\net10.0\07-Quantifiers.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\Desktop\Linq\Linq\07-Quantifiers\obj\Debug\net10.0\07-Quantifiers.AssemblyInfoInputs.cache
+C:\Users\HP\Desktop\Linq\Linq\07-Quantifiers\obj\Debug\net10.0\07-Quantifiers.AssemblyInfo.cs
+C:\Users\HP\Desktop\Linq\Linq\07-Quantifiers\obj\Debug\net10.0\07-Quantifiers.csproj.CoreCompileInputs.cache
+C:\Users\HP\Desktop\Linq\Linq\07-Quantifiers\obj\Debug\net10.0\07-Quantifiers.sourcelink.json
+C:\Users\HP\Desktop\Linq\Linq\07-Quantifiers\obj\Debug\net10.0\07-Quantifiers.dll
+C:\Users\HP\Desktop\Linq\Linq\07-Quantifiers\obj\Debug\net10.0\refint\07-Quantifiers.dll
+C:\Users\HP\Desktop\Linq\Linq\07-Quantifiers\obj\Debug\net10.0\07-Quantifiers.pdb
+C:\Users\HP\Desktop\Linq\Linq\07-Quantifiers\obj\Debug\net10.0\07-Quantifiers.genruntimeconfig.cache
+C:\Users\HP\Desktop\Linq\Linq\07-Quantifiers\obj\Debug\net10.0\ref\07-Quantifiers.dll

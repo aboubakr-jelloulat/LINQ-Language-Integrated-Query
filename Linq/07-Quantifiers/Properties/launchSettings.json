@@ -1,0 +1,10 @@
+{
+  "profiles": {
+    "07-Quantifiers": {
+      "commandName": "Project"
+    },
+    "Container (Dockerfile)": {
+      "commandName": "Docker"
+    }
+  }
+}

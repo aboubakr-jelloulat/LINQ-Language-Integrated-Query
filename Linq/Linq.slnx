@@ -5,4 +5,5 @@
   <Project Path="04- Projection Operation/04- Projection Operation.csproj" Id="2f1e047f-b59f-484f-99bf-011e662f88b8" />
   <Project Path="05-Sorting Data/05-Sorting Data.csproj" Id="386755e9-6d17-42f4-8ef4-a72e7372311f" />
   <Project Path="06-Data Partitioning/06-Data Partitioning.csproj" Id="dc5b6e17-f4fe-4f27-83ab-6c8ab8958eba" />
+  <Project Path="07-Quantifiers/07-Quantifiers.csproj" Id="ba3de1e5-a0f1-4a73-9708-de7b8f6d983e" />
 </Solution>

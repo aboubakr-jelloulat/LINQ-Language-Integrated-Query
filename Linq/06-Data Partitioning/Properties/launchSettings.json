@@ -1,0 +1,10 @@
+{
+  "profiles": {
+    "06-Data Partitioning": {
+      "commandName": "Project"
+    },
+    "Container (Dockerfile)": {
+      "commandName": "Docker"
+    }
+  }
+}

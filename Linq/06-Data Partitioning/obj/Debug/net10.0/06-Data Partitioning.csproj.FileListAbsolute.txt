@@ -1,0 +1,15 @@
+C:\Users\HP\Desktop\Linq\Linq\06-Data Partitioning\bin\Debug\net10.0\06-Data Partitioning.exe
+C:\Users\HP\Desktop\Linq\Linq\06-Data Partitioning\bin\Debug\net10.0\06-Data Partitioning.deps.json
+C:\Users\HP\Desktop\Linq\Linq\06-Data Partitioning\bin\Debug\net10.0\06-Data Partitioning.runtimeconfig.json
+C:\Users\HP\Desktop\Linq\Linq\06-Data Partitioning\bin\Debug\net10.0\06-Data Partitioning.dll
+C:\Users\HP\Desktop\Linq\Linq\06-Data Partitioning\bin\Debug\net10.0\06-Data Partitioning.pdb
+C:\Users\HP\Desktop\Linq\Linq\06-Data Partitioning\obj\Debug\net10.0\06-Data Partitioning.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\Desktop\Linq\Linq\06-Data Partitioning\obj\Debug\net10.0\06-Data Partitioning.AssemblyInfoInputs.cache
+C:\Users\HP\Desktop\Linq\Linq\06-Data Partitioning\obj\Debug\net10.0\06-Data Partitioning.AssemblyInfo.cs
+C:\Users\HP\Desktop\Linq\Linq\06-Data Partitioning\obj\Debug\net10.0\06-Data Partitioning.csproj.CoreCompileInputs.cache
+C:\Users\HP\Desktop\Linq\Linq\06-Data Partitioning\obj\Debug\net10.0\06-Data Partitioning.sourcelink.json
+C:\Users\HP\Desktop\Linq\Linq\06-Data Partitioning\obj\Debug\net10.0\06-Data Partitioning.dll
+C:\Users\HP\Desktop\Linq\Linq\06-Data Partitioning\obj\Debug\net10.0\refint\06-Data Partitioning.dll
+C:\Users\HP\Desktop\Linq\Linq\06-Data Partitioning\obj\Debug\net10.0\06-Data Partitioning.pdb
+C:\Users\HP\Desktop\Linq\Linq\06-Data Partitioning\obj\Debug\net10.0\06-Data Partitioning.genruntimeconfig.cache
+C:\Users\HP\Desktop\Linq\Linq\06-Data Partitioning\obj\Debug\net10.0\ref\06-Data Partitioning.dll

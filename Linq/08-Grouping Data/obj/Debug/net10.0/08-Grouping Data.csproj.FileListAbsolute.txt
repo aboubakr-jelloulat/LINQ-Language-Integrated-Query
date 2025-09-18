@@ -1,0 +1,15 @@
+C:\Users\HP\Desktop\Linq\Linq\08-Grouping Data\bin\Debug\net10.0\08-Grouping Data.exe
+C:\Users\HP\Desktop\Linq\Linq\08-Grouping Data\bin\Debug\net10.0\08-Grouping Data.deps.json
+C:\Users\HP\Desktop\Linq\Linq\08-Grouping Data\bin\Debug\net10.0\08-Grouping Data.runtimeconfig.json
+C:\Users\HP\Desktop\Linq\Linq\08-Grouping Data\bin\Debug\net10.0\08-Grouping Data.dll
+C:\Users\HP\Desktop\Linq\Linq\08-Grouping Data\bin\Debug\net10.0\08-Grouping Data.pdb
+C:\Users\HP\Desktop\Linq\Linq\08-Grouping Data\obj\Debug\net10.0\08-Grouping Data.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\Desktop\Linq\Linq\08-Grouping Data\obj\Debug\net10.0\08-Grouping Data.AssemblyInfoInputs.cache
+C:\Users\HP\Desktop\Linq\Linq\08-Grouping Data\obj\Debug\net10.0\08-Grouping Data.AssemblyInfo.cs
+C:\Users\HP\Desktop\Linq\Linq\08-Grouping Data\obj\Debug\net10.0\08-Grouping Data.csproj.CoreCompileInputs.cache
+C:\Users\HP\Desktop\Linq\Linq\08-Grouping Data\obj\Debug\net10.0\08-Grouping Data.sourcelink.json
+C:\Users\HP\Desktop\Linq\Linq\08-Grouping Data\obj\Debug\net10.0\08-Grouping Data.dll
+C:\Users\HP\Desktop\Linq\Linq\08-Grouping Data\obj\Debug\net10.0\refint\08-Grouping Data.dll
+C:\Users\HP\Desktop\Linq\Linq\08-Grouping Data\obj\Debug\net10.0\08-Grouping Data.pdb
+C:\Users\HP\Desktop\Linq\Linq\08-Grouping Data\obj\Debug\net10.0\08-Grouping Data.genruntimeconfig.cache
+C:\Users\HP\Desktop\Linq\Linq\08-Grouping Data\obj\Debug\net10.0\ref\08-Grouping Data.dll

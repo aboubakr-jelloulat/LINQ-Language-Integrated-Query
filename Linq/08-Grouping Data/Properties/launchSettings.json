@@ -1,0 +1,10 @@
+{
+  "profiles": {
+    "08-Grouping Data": {
+      "commandName": "Project"
+    },
+    "Container (Dockerfile)": {
+      "commandName": "Docker"
+    }
+  }
+}

@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("06-Data Partitioning")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+12cc90c23013e1a969950c78d23757127ee9b613")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+29b5eeea7cb6afc9d0d48d12899d96fb7810a02e")]
 [assembly: System.Reflection.AssemblyProductAttribute("06-Data Partitioning")]
 [assembly: System.Reflection.AssemblyTitleAttribute("06-Data Partitioning")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

@@ -1,0 +1,10 @@
+{
+  "profiles": {
+    "09-join Operations": {
+      "commandName": "Project"
+    },
+    "Container (Dockerfile)": {
+      "commandName": "Docker"
+    }
+  }
+}

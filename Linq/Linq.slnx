@@ -7,4 +7,5 @@
   <Project Path="06-Data Partitioning/06-Data Partitioning.csproj" Id="dc5b6e17-f4fe-4f27-83ab-6c8ab8958eba" />
   <Project Path="07-Quantifiers/07-Quantifiers.csproj" Id="ba3de1e5-a0f1-4a73-9708-de7b8f6d983e" />
   <Project Path="08-Grouping Data/08-Grouping Data.csproj" Id="db357705-6523-4424-8350-4a700ba7906e" />
+  <Project Path="09-join Operations/09-join Operations.csproj" Id="1720b22f-d161-4ab2-9fe4-2272d483def7" />
 </Solution>

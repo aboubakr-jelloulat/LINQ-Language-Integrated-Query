@@ -1,0 +1,15 @@
+C:\Users\HP\Desktop\Linq\Linq\11-Element Operations\bin\Debug\net10.0\11-Element Operations.exe
+C:\Users\HP\Desktop\Linq\Linq\11-Element Operations\bin\Debug\net10.0\11-Element Operations.deps.json
+C:\Users\HP\Desktop\Linq\Linq\11-Element Operations\bin\Debug\net10.0\11-Element Operations.runtimeconfig.json
+C:\Users\HP\Desktop\Linq\Linq\11-Element Operations\bin\Debug\net10.0\11-Element Operations.dll
+C:\Users\HP\Desktop\Linq\Linq\11-Element Operations\bin\Debug\net10.0\11-Element Operations.pdb
+C:\Users\HP\Desktop\Linq\Linq\11-Element Operations\obj\Debug\net10.0\11-Element Operations.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\Desktop\Linq\Linq\11-Element Operations\obj\Debug\net10.0\11-Element Operations.AssemblyInfoInputs.cache
+C:\Users\HP\Desktop\Linq\Linq\11-Element Operations\obj\Debug\net10.0\11-Element Operations.AssemblyInfo.cs
+C:\Users\HP\Desktop\Linq\Linq\11-Element Operations\obj\Debug\net10.0\11-Element Operations.csproj.CoreCompileInputs.cache
+C:\Users\HP\Desktop\Linq\Linq\11-Element Operations\obj\Debug\net10.0\11-Element Operations.sourcelink.json
+C:\Users\HP\Desktop\Linq\Linq\11-Element Operations\obj\Debug\net10.0\11-Element Operations.dll
+C:\Users\HP\Desktop\Linq\Linq\11-Element Operations\obj\Debug\net10.0\refint\11-Element Operations.dll
+C:\Users\HP\Desktop\Linq\Linq\11-Element Operations\obj\Debug\net10.0\11-Element Operations.pdb
+C:\Users\HP\Desktop\Linq\Linq\11-Element Operations\obj\Debug\net10.0\11-Element Operations.genruntimeconfig.cache
+C:\Users\HP\Desktop\Linq\Linq\11-Element Operations\obj\Debug\net10.0\ref\11-Element Operations.dll

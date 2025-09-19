@@ -1,0 +1,10 @@
+{
+  "profiles": {
+    "11-Element Operations": {
+      "commandName": "Project"
+    },
+    "Container (Dockerfile)": {
+      "commandName": "Docker"
+    }
+  }
+}

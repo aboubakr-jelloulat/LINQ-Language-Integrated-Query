@@ -1,0 +1,15 @@
+C:\Users\HP\Desktop\Linq\Linq\10-Generation Operations\bin\Debug\net10.0\10-Generation Operations.exe
+C:\Users\HP\Desktop\Linq\Linq\10-Generation Operations\bin\Debug\net10.0\10-Generation Operations.deps.json
+C:\Users\HP\Desktop\Linq\Linq\10-Generation Operations\bin\Debug\net10.0\10-Generation Operations.runtimeconfig.json
+C:\Users\HP\Desktop\Linq\Linq\10-Generation Operations\bin\Debug\net10.0\10-Generation Operations.dll
+C:\Users\HP\Desktop\Linq\Linq\10-Generation Operations\bin\Debug\net10.0\10-Generation Operations.pdb
+C:\Users\HP\Desktop\Linq\Linq\10-Generation Operations\obj\Debug\net10.0\10-Generation Operations.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\Desktop\Linq\Linq\10-Generation Operations\obj\Debug\net10.0\10-Generation Operations.AssemblyInfoInputs.cache
+C:\Users\HP\Desktop\Linq\Linq\10-Generation Operations\obj\Debug\net10.0\10-Generation Operations.AssemblyInfo.cs
+C:\Users\HP\Desktop\Linq\Linq\10-Generation Operations\obj\Debug\net10.0\10-Generation Operations.csproj.CoreCompileInputs.cache
+C:\Users\HP\Desktop\Linq\Linq\10-Generation Operations\obj\Debug\net10.0\10-Generation Operations.sourcelink.json
+C:\Users\HP\Desktop\Linq\Linq\10-Generation Operations\obj\Debug\net10.0\10-Generation Operations.dll
+C:\Users\HP\Desktop\Linq\Linq\10-Generation Operations\obj\Debug\net10.0\refint\10-Generation Operations.dll
+C:\Users\HP\Desktop\Linq\Linq\10-Generation Operations\obj\Debug\net10.0\10-Generation Operations.pdb
+C:\Users\HP\Desktop\Linq\Linq\10-Generation Operations\obj\Debug\net10.0\10-Generation Operations.genruntimeconfig.cache
+C:\Users\HP\Desktop\Linq\Linq\10-Generation Operations\obj\Debug\net10.0\ref\10-Generation Operations.dll

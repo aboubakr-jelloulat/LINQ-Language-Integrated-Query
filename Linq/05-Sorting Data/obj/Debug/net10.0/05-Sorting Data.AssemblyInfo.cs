@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("05-Sorting Data")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+d735d180a01e0e010b71662603bad34c10365ebd")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+cae3a741cf362981e74066c2de13bdea4ad52f37")]
 [assembly: System.Reflection.AssemblyProductAttribute("05-Sorting Data")]
 [assembly: System.Reflection.AssemblyTitleAttribute("05-Sorting Data")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

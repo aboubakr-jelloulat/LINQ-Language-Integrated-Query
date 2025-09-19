@@ -1,0 +1,10 @@
+{
+  "profiles": {
+    "10-Generation Operations": {
+      "commandName": "Project"
+    },
+    "Container (Dockerfile)": {
+      "commandName": "Docker"
+    }
+  }
+}

@@ -1,0 +1,10 @@
+{
+  "profiles": {
+    "14- Aggregate Operations": {
+      "commandName": "Project"
+    },
+    "Container (Dockerfile)": {
+      "commandName": "Docker"
+    }
+  }
+}

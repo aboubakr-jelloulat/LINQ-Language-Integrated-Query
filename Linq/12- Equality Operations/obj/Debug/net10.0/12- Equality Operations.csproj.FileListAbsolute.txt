@@ -1,0 +1,15 @@
+C:\Users\HP\Desktop\Linq\Linq\12- Equality Operations\bin\Debug\net10.0\12- Equality Operations.exe
+C:\Users\HP\Desktop\Linq\Linq\12- Equality Operations\bin\Debug\net10.0\12- Equality Operations.deps.json
+C:\Users\HP\Desktop\Linq\Linq\12- Equality Operations\bin\Debug\net10.0\12- Equality Operations.runtimeconfig.json
+C:\Users\HP\Desktop\Linq\Linq\12- Equality Operations\bin\Debug\net10.0\12- Equality Operations.dll
+C:\Users\HP\Desktop\Linq\Linq\12- Equality Operations\bin\Debug\net10.0\12- Equality Operations.pdb
+C:\Users\HP\Desktop\Linq\Linq\12- Equality Operations\obj\Debug\net10.0\12- Equality Operations.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\Desktop\Linq\Linq\12- Equality Operations\obj\Debug\net10.0\12- Equality Operations.AssemblyInfoInputs.cache
+C:\Users\HP\Desktop\Linq\Linq\12- Equality Operations\obj\Debug\net10.0\12- Equality Operations.AssemblyInfo.cs
+C:\Users\HP\Desktop\Linq\Linq\12- Equality Operations\obj\Debug\net10.0\12- Equality Operations.csproj.CoreCompileInputs.cache
+C:\Users\HP\Desktop\Linq\Linq\12- Equality Operations\obj\Debug\net10.0\12- Equality Operations.sourcelink.json
+C:\Users\HP\Desktop\Linq\Linq\12- Equality Operations\obj\Debug\net10.0\12- Equality Operations.dll
+C:\Users\HP\Desktop\Linq\Linq\12- Equality Operations\obj\Debug\net10.0\refint\12- Equality Operations.dll
+C:\Users\HP\Desktop\Linq\Linq\12- Equality Operations\obj\Debug\net10.0\12- Equality Operations.pdb
+C:\Users\HP\Desktop\Linq\Linq\12- Equality Operations\obj\Debug\net10.0\12- Equality Operations.genruntimeconfig.cache
+C:\Users\HP\Desktop\Linq\Linq\12- Equality Operations\obj\Debug\net10.0\ref\12- Equality Operations.dll

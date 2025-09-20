@@ -10,4 +10,5 @@
   <Project Path="09-join Operations/09-join Operations.csproj" Id="1720b22f-d161-4ab2-9fe4-2272d483def7" />
   <Project Path="10-Generation Operations/10-Generation Operations.csproj" Id="0a3ac1f7-e1a5-49a0-82e7-0777ab235022" />
   <Project Path="11-Element Operations/11-Element Operations.csproj" Id="1ab392a2-63aa-403e-b429-c09922067137" />
+  <Project Path="12- Equality Operations/12- Equality Operations.csproj" Id="78a5617c-71a5-46d6-be83-106670efbade" />
 </Solution>

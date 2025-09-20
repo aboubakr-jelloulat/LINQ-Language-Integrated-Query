@@ -1,0 +1,10 @@
+{
+  "profiles": {
+    "12- Equality Operations": {
+      "commandName": "Project"
+    },
+    "Container (Dockerfile)": {
+      "commandName": "Docker"
+    }
+  }
+}

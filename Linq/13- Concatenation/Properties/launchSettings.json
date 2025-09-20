@@ -1,0 +1,10 @@
+{
+  "profiles": {
+    "13- Concatenation": {
+      "commandName": "Project"
+    },
+    "Container (Dockerfile)": {
+      "commandName": "Docker"
+    }
+  }
+}

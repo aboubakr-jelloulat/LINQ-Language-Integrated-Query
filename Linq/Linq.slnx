@@ -11,4 +11,5 @@
   <Project Path="10-Generation Operations/10-Generation Operations.csproj" Id="0a3ac1f7-e1a5-49a0-82e7-0777ab235022" />
   <Project Path="11-Element Operations/11-Element Operations.csproj" Id="1ab392a2-63aa-403e-b429-c09922067137" />
   <Project Path="12- Equality Operations/12- Equality Operations.csproj" Id="78a5617c-71a5-46d6-be83-106670efbade" />
+  <Project Path="13- Concatenation/13- Concatenation.csproj" Id="fd24611c-7545-432b-85c9-1e7b80ce0767" />
 </Solution>

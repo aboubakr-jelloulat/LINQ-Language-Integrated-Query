@@ -1,0 +1,15 @@
+C:\Users\HP\Desktop\Linq\Linq\13- Concatenation\bin\Debug\net10.0\13- Concatenation.exe
+C:\Users\HP\Desktop\Linq\Linq\13- Concatenation\bin\Debug\net10.0\13- Concatenation.deps.json
+C:\Users\HP\Desktop\Linq\Linq\13- Concatenation\bin\Debug\net10.0\13- Concatenation.runtimeconfig.json
+C:\Users\HP\Desktop\Linq\Linq\13- Concatenation\bin\Debug\net10.0\13- Concatenation.dll
+C:\Users\HP\Desktop\Linq\Linq\13- Concatenation\bin\Debug\net10.0\13- Concatenation.pdb
+C:\Users\HP\Desktop\Linq\Linq\13- Concatenation\obj\Debug\net10.0\13- Concatenation.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\Desktop\Linq\Linq\13- Concatenation\obj\Debug\net10.0\13- Concatenation.AssemblyInfoInputs.cache
+C:\Users\HP\Desktop\Linq\Linq\13- Concatenation\obj\Debug\net10.0\13- Concatenation.AssemblyInfo.cs
+C:\Users\HP\Desktop\Linq\Linq\13- Concatenation\obj\Debug\net10.0\13- Concatenation.csproj.CoreCompileInputs.cache
+C:\Users\HP\Desktop\Linq\Linq\13- Concatenation\obj\Debug\net10.0\13- Concatenation.sourcelink.json
+C:\Users\HP\Desktop\Linq\Linq\13- Concatenation\obj\Debug\net10.0\13- Concatenation.dll
+C:\Users\HP\Desktop\Linq\Linq\13- Concatenation\obj\Debug\net10.0\refint\13- Concatenation.dll
+C:\Users\HP\Desktop\Linq\Linq\13- Concatenation\obj\Debug\net10.0\13- Concatenation.pdb
+C:\Users\HP\Desktop\Linq\Linq\13- Concatenation\obj\Debug\net10.0\13- Concatenation.genruntimeconfig.cache
+C:\Users\HP\Desktop\Linq\Linq\13- Concatenation\obj\Debug\net10.0\ref\13- Concatenation.dll

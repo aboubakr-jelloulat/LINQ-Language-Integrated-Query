@@ -1,0 +1,10 @@
+{
+  "profiles": {
+    "16- Expression Trees": {
+      "commandName": "Project"
+    },
+    "Container (Dockerfile)": {
+      "commandName": "Docker"
+    }
+  }
+}

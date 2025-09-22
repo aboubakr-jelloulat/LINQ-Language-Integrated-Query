@@ -14,4 +14,5 @@
   <Project Path="13- Concatenation/13- Concatenation.csproj" Id="fd24611c-7545-432b-85c9-1e7b80ce0767" />
   <Project Path="14- Aggregate Operations/14- Aggregate Operations.csproj" Id="641d6bc0-ab33-4241-8af2-e0fbd538be5f" />
   <Project Path="15- Sets Operations/15- Sets Operations.csproj" Id="0b92b4e5-3d1c-4d2a-97e1-70fc5846fad5" />
+  <Project Path="16- Expression Trees/16- Expression Trees.csproj" Id="d47a6276-a204-4af3-b6fa-5fe7199e3dbf" />
 </Solution>

@@ -1,0 +1,15 @@
+C:\Users\HP\Desktop\Linq\Linq\16- Expression Trees\bin\Debug\net10.0\16- Expression Trees.exe
+C:\Users\HP\Desktop\Linq\Linq\16- Expression Trees\bin\Debug\net10.0\16- Expression Trees.deps.json
+C:\Users\HP\Desktop\Linq\Linq\16- Expression Trees\bin\Debug\net10.0\16- Expression Trees.runtimeconfig.json
+C:\Users\HP\Desktop\Linq\Linq\16- Expression Trees\bin\Debug\net10.0\16- Expression Trees.dll
+C:\Users\HP\Desktop\Linq\Linq\16- Expression Trees\bin\Debug\net10.0\16- Expression Trees.pdb
+C:\Users\HP\Desktop\Linq\Linq\16- Expression Trees\obj\Debug\net10.0\16- Expression Trees.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\Desktop\Linq\Linq\16- Expression Trees\obj\Debug\net10.0\16- Expression Trees.AssemblyInfoInputs.cache
+C:\Users\HP\Desktop\Linq\Linq\16- Expression Trees\obj\Debug\net10.0\16- Expression Trees.AssemblyInfo.cs
+C:\Users\HP\Desktop\Linq\Linq\16- Expression Trees\obj\Debug\net10.0\16- Expression Trees.csproj.CoreCompileInputs.cache
+C:\Users\HP\Desktop\Linq\Linq\16- Expression Trees\obj\Debug\net10.0\16- Expression Trees.sourcelink.json
+C:\Users\HP\Desktop\Linq\Linq\16- Expression Trees\obj\Debug\net10.0\16- Expression Trees.dll
+C:\Users\HP\Desktop\Linq\Linq\16- Expression Trees\obj\Debug\net10.0\refint\16- Expression Trees.dll
+C:\Users\HP\Desktop\Linq\Linq\16- Expression Trees\obj\Debug\net10.0\16- Expression Trees.pdb
+C:\Users\HP\Desktop\Linq\Linq\16- Expression Trees\obj\Debug\net10.0\16- Expression Trees.genruntimeconfig.cache
+C:\Users\HP\Desktop\Linq\Linq\16- Expression Trees\obj\Debug\net10.0\ref\16- Expression Trees.dll

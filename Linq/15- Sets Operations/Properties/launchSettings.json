@@ -1,0 +1,10 @@
+{
+  "profiles": {
+    "15- Sets Operations": {
+      "commandName": "Project"
+    },
+    "Container (Dockerfile)": {
+      "commandName": "Docker"
+    }
+  }
+}

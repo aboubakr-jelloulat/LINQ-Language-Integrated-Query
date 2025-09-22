@@ -1,0 +1,15 @@
+C:\Users\HP\Desktop\Linq\Linq\15- Sets Operations\bin\Debug\net10.0\15- Sets Operations.exe
+C:\Users\HP\Desktop\Linq\Linq\15- Sets Operations\bin\Debug\net10.0\15- Sets Operations.deps.json
+C:\Users\HP\Desktop\Linq\Linq\15- Sets Operations\bin\Debug\net10.0\15- Sets Operations.runtimeconfig.json
+C:\Users\HP\Desktop\Linq\Linq\15- Sets Operations\bin\Debug\net10.0\15- Sets Operations.dll
+C:\Users\HP\Desktop\Linq\Linq\15- Sets Operations\bin\Debug\net10.0\15- Sets Operations.pdb
+C:\Users\HP\Desktop\Linq\Linq\15- Sets Operations\obj\Debug\net10.0\15- Sets Operations.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\Desktop\Linq\Linq\15- Sets Operations\obj\Debug\net10.0\15- Sets Operations.AssemblyInfoInputs.cache
+C:\Users\HP\Desktop\Linq\Linq\15- Sets Operations\obj\Debug\net10.0\15- Sets Operations.AssemblyInfo.cs
+C:\Users\HP\Desktop\Linq\Linq\15- Sets Operations\obj\Debug\net10.0\15- Sets Operations.csproj.CoreCompileInputs.cache
+C:\Users\HP\Desktop\Linq\Linq\15- Sets Operations\obj\Debug\net10.0\15- Sets Operations.sourcelink.json
+C:\Users\HP\Desktop\Linq\Linq\15- Sets Operations\obj\Debug\net10.0\15- Sets Operations.dll
+C:\Users\HP\Desktop\Linq\Linq\15- Sets Operations\obj\Debug\net10.0\refint\15- Sets Operations.dll
+C:\Users\HP\Desktop\Linq\Linq\15- Sets Operations\obj\Debug\net10.0\15- Sets Operations.pdb
+C:\Users\HP\Desktop\Linq\Linq\15- Sets Operations\obj\Debug\net10.0\15- Sets Operations.genruntimeconfig.cache
+C:\Users\HP\Desktop\Linq\Linq\15- Sets Operations\obj\Debug\net10.0\ref\15- Sets Operations.dll

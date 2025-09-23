@@ -1,0 +1,15 @@
+C:\Users\HP\Desktop\Linq\Linq\18-Converting Data Types\bin\Debug\net10.0\18-Converting Data Types.exe
+C:\Users\HP\Desktop\Linq\Linq\18-Converting Data Types\bin\Debug\net10.0\18-Converting Data Types.deps.json
+C:\Users\HP\Desktop\Linq\Linq\18-Converting Data Types\bin\Debug\net10.0\18-Converting Data Types.runtimeconfig.json
+C:\Users\HP\Desktop\Linq\Linq\18-Converting Data Types\bin\Debug\net10.0\18-Converting Data Types.dll
+C:\Users\HP\Desktop\Linq\Linq\18-Converting Data Types\bin\Debug\net10.0\18-Converting Data Types.pdb
+C:\Users\HP\Desktop\Linq\Linq\18-Converting Data Types\obj\Debug\net10.0\18-Converting Data Types.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\Desktop\Linq\Linq\18-Converting Data Types\obj\Debug\net10.0\18-Converting Data Types.AssemblyInfoInputs.cache
+C:\Users\HP\Desktop\Linq\Linq\18-Converting Data Types\obj\Debug\net10.0\18-Converting Data Types.AssemblyInfo.cs
+C:\Users\HP\Desktop\Linq\Linq\18-Converting Data Types\obj\Debug\net10.0\18-Converting Data Types.csproj.CoreCompileInputs.cache
+C:\Users\HP\Desktop\Linq\Linq\18-Converting Data Types\obj\Debug\net10.0\18-Converting Data Types.sourcelink.json
+C:\Users\HP\Desktop\Linq\Linq\18-Converting Data Types\obj\Debug\net10.0\18-Converting Data Types.dll
+C:\Users\HP\Desktop\Linq\Linq\18-Converting Data Types\obj\Debug\net10.0\refint\18-Converting Data Types.dll
+C:\Users\HP\Desktop\Linq\Linq\18-Converting Data Types\obj\Debug\net10.0\18-Converting Data Types.pdb
+C:\Users\HP\Desktop\Linq\Linq\18-Converting Data Types\obj\Debug\net10.0\18-Converting Data Types.genruntimeconfig.cache
+C:\Users\HP\Desktop\Linq\Linq\18-Converting Data Types\obj\Debug\net10.0\ref\18-Converting Data Types.dll

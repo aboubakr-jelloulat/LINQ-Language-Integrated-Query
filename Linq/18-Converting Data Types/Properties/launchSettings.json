@@ -1,0 +1,10 @@
+{
+  "profiles": {
+    "18-Converting Data Types": {
+      "commandName": "Project"
+    },
+    "Container (Dockerfile)": {
+      "commandName": "Docker"
+    }
+  }
+}

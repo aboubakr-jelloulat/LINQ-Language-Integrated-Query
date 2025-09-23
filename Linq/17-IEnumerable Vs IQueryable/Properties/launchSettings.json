@@ -1,0 +1,10 @@
+{
+  "profiles": {
+    "17-IEnumerable Vs IQueryable": {
+      "commandName": "Project"
+    },
+    "Container (Dockerfile)": {
+      "commandName": "Docker"
+    }
+  }
+}

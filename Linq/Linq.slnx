@@ -15,4 +15,5 @@
   <Project Path="14- Aggregate Operations/14- Aggregate Operations.csproj" Id="641d6bc0-ab33-4241-8af2-e0fbd538be5f" />
   <Project Path="15- Sets Operations/15- Sets Operations.csproj" Id="0b92b4e5-3d1c-4d2a-97e1-70fc5846fad5" />
   <Project Path="16- Expression Trees/16- Expression Trees.csproj" Id="d47a6276-a204-4af3-b6fa-5fe7199e3dbf" />
+  <Project Path="17-IEnumerable Vs IQueryable/17-IEnumerable Vs IQueryable.csproj" Id="a40165b4-0a0c-4cf0-bed9-0210adcb3223" />
 </Solution>

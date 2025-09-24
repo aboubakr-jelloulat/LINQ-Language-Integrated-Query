@@ -18,4 +18,5 @@
   <Project Path="17-IEnumerable Vs IQueryable/17-IEnumerable Vs IQueryable.csproj" Id="a40165b4-0a0c-4cf0-bed9-0210adcb3223" />
   <Project Path="18-Converting Data Types/18-Converting Data Types.csproj" Id="06b6c22a-0094-4364-ad9b-9f326a90bfa3" />
   <Project Path="19- Custom LINQ Extension Method/19- Custom LINQ Extension Method.csproj" Id="7e53fcb2-e54d-41f4-9040-9626e6309d69" />
+  <Project Path="20- LINQ Anatomy/20- LINQ Anatomy.csproj" Id="210b0467-bd84-442b-a778-44b060e35bcd" />
 </Solution>

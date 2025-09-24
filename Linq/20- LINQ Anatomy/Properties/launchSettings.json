@@ -1,0 +1,10 @@
+{
+  "profiles": {
+    "20- LINQ Anatomy": {
+      "commandName": "Project"
+    },
+    "Container (Dockerfile)": {
+      "commandName": "Docker"
+    }
+  }
+}

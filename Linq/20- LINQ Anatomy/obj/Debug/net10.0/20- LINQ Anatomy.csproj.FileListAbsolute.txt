@@ -1,0 +1,15 @@
+C:\Users\HP\Desktop\Linq\Linq\20- LINQ Anatomy\bin\Debug\net10.0\20- LINQ Anatomy.exe
+C:\Users\HP\Desktop\Linq\Linq\20- LINQ Anatomy\bin\Debug\net10.0\20- LINQ Anatomy.deps.json
+C:\Users\HP\Desktop\Linq\Linq\20- LINQ Anatomy\bin\Debug\net10.0\20- LINQ Anatomy.runtimeconfig.json
+C:\Users\HP\Desktop\Linq\Linq\20- LINQ Anatomy\bin\Debug\net10.0\20- LINQ Anatomy.dll
+C:\Users\HP\Desktop\Linq\Linq\20- LINQ Anatomy\bin\Debug\net10.0\20- LINQ Anatomy.pdb
+C:\Users\HP\Desktop\Linq\Linq\20- LINQ Anatomy\obj\Debug\net10.0\20- LINQ Anatomy.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\Desktop\Linq\Linq\20- LINQ Anatomy\obj\Debug\net10.0\20- LINQ Anatomy.AssemblyInfoInputs.cache
+C:\Users\HP\Desktop\Linq\Linq\20- LINQ Anatomy\obj\Debug\net10.0\20- LINQ Anatomy.AssemblyInfo.cs
+C:\Users\HP\Desktop\Linq\Linq\20- LINQ Anatomy\obj\Debug\net10.0\20- LINQ Anatomy.csproj.CoreCompileInputs.cache
+C:\Users\HP\Desktop\Linq\Linq\20- LINQ Anatomy\obj\Debug\net10.0\20- LINQ Anatomy.sourcelink.json
+C:\Users\HP\Desktop\Linq\Linq\20- LINQ Anatomy\obj\Debug\net10.0\20- LINQ Anatomy.dll
+C:\Users\HP\Desktop\Linq\Linq\20- LINQ Anatomy\obj\Debug\net10.0\refint\20- LINQ Anatomy.dll
+C:\Users\HP\Desktop\Linq\Linq\20- LINQ Anatomy\obj\Debug\net10.0\20- LINQ Anatomy.pdb
+C:\Users\HP\Desktop\Linq\Linq\20- LINQ Anatomy\obj\Debug\net10.0\20- LINQ Anatomy.genruntimeconfig.cache
+C:\Users\HP\Desktop\Linq\Linq\20- LINQ Anatomy\obj\Debug\net10.0\ref\20- LINQ Anatomy.dll

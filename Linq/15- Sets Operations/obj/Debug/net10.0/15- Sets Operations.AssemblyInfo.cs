@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("15- Sets Operations")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+c2d09da27690b45b0584b9cc2c92519a687082af")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+8b78324340cf2aa76e7d1ee174ec147a11b6ea67")]
 [assembly: System.Reflection.AssemblyProductAttribute("15- Sets Operations")]
 [assembly: System.Reflection.AssemblyTitleAttribute("15- Sets Operations")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

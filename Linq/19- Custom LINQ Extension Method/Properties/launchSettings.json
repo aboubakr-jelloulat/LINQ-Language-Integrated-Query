@@ -1,0 +1,10 @@
+{
+  "profiles": {
+    "19- Custom LINQ Extension Method": {
+      "commandName": "Project"
+    },
+    "Container (Dockerfile)": {
+      "commandName": "Docker"
+    }
+  }
+}

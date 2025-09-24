@@ -1,0 +1,15 @@
+C:\Users\HP\Desktop\Linq\Linq\19- Custom LINQ Extension Method\bin\Debug\net10.0\19- Custom LINQ Extension Method.exe
+C:\Users\HP\Desktop\Linq\Linq\19- Custom LINQ Extension Method\bin\Debug\net10.0\19- Custom LINQ Extension Method.deps.json
+C:\Users\HP\Desktop\Linq\Linq\19- Custom LINQ Extension Method\bin\Debug\net10.0\19- Custom LINQ Extension Method.runtimeconfig.json
+C:\Users\HP\Desktop\Linq\Linq\19- Custom LINQ Extension Method\bin\Debug\net10.0\19- Custom LINQ Extension Method.dll
+C:\Users\HP\Desktop\Linq\Linq\19- Custom LINQ Extension Method\bin\Debug\net10.0\19- Custom LINQ Extension Method.pdb
+C:\Users\HP\Desktop\Linq\Linq\19- Custom LINQ Extension Method\obj\Debug\net10.0\19- Custom LINQ Extension Method.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\Desktop\Linq\Linq\19- Custom LINQ Extension Method\obj\Debug\net10.0\19- Custom LINQ Extension Method.AssemblyInfoInputs.cache
+C:\Users\HP\Desktop\Linq\Linq\19- Custom LINQ Extension Method\obj\Debug\net10.0\19- Custom LINQ Extension Method.AssemblyInfo.cs
+C:\Users\HP\Desktop\Linq\Linq\19- Custom LINQ Extension Method\obj\Debug\net10.0\19- Custom LINQ Extension Method.csproj.CoreCompileInputs.cache
+C:\Users\HP\Desktop\Linq\Linq\19- Custom LINQ Extension Method\obj\Debug\net10.0\19- Custom LINQ Extension Method.sourcelink.json
+C:\Users\HP\Desktop\Linq\Linq\19- Custom LINQ Extension Method\obj\Debug\net10.0\19- Custom LINQ Extension Method.dll
+C:\Users\HP\Desktop\Linq\Linq\19- Custom LINQ Extension Method\obj\Debug\net10.0\refint\19- Custom LINQ Extension Method.dll
+C:\Users\HP\Desktop\Linq\Linq\19- Custom LINQ Extension Method\obj\Debug\net10.0\19- Custom LINQ Extension Method.pdb
+C:\Users\HP\Desktop\Linq\Linq\19- Custom LINQ Extension Method\obj\Debug\net10.0\19- Custom LINQ Extension Method.genruntimeconfig.cache
+C:\Users\HP\Desktop\Linq\Linq\19- Custom LINQ Extension Method\obj\Debug\net10.0\ref\19- Custom LINQ Extension Method.dll

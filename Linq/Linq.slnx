@@ -17,4 +17,5 @@
   <Project Path="16- Expression Trees/16- Expression Trees.csproj" Id="d47a6276-a204-4af3-b6fa-5fe7199e3dbf" />
   <Project Path="17-IEnumerable Vs IQueryable/17-IEnumerable Vs IQueryable.csproj" Id="a40165b4-0a0c-4cf0-bed9-0210adcb3223" />
   <Project Path="18-Converting Data Types/18-Converting Data Types.csproj" Id="06b6c22a-0094-4364-ad9b-9f326a90bfa3" />
+  <Project Path="19- Custom LINQ Extension Method/19- Custom LINQ Extension Method.csproj" Id="7e53fcb2-e54d-41f4-9040-9626e6309d69" />
 </Solution>
